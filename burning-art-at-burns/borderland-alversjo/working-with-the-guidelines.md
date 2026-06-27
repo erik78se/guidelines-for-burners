@@ -59,11 +59,24 @@ Burning Art at Borderland
 ## How to use this structure
 
 1. Start with [burning_art_borderline_guideline.md](burning_art_borderline_guideline.md) to understand the safety requirements.
-2. Create or update a burn plan for the specific artwork.
+2. Create a new (or update an existing) burn plan for the specific artwork. Use [burn-plan-example-template.md](burn-plan-example-template.md) as a template.
 3. Name the people filling each role in the burn plan.
 4. Give each role access to the maintained checklists relevant to that role.
 5. Use [master-operational-large-burn-checklist.md](master-operational-large-burn-checklist.md) to coordinate the complete burn across roles and phases.
 6. Keep detailed checklist maintenance in the separate checklist files, not duplicated inside burn plans.
+
+## Maintained checklists
+
+These files are the maintained operational checklists. Burn plans should link to them instead of copying their contents.
+
+- [Master operational large burn checklist](master-operational-large-burn-checklist.md)
+- [Go/no-go checklist](go-nogo-checklist.md)
+- [Volunteer training checklist](voulonteer-training-checklist.md)
+- [Audience information checklist](audience-information-checklist.md)
+- [Releasing the perimeter checklist](releaseing-the-perimiter-checklist.md)
+- [Fire Artists / Fire Spinner Lead checklist](fire-art-spinner-lead-checklist.md)
+- [Ignition crew checklist](ignition-crew-checklist.md)
+- [Materials guideline for burns](materials-guideline-for-burns.md)
 
 ## Flow from guideline to burn plan
 
