@@ -564,6 +564,11 @@ Primary source: pasted Talk discussion, "Burn Safety: Using Protea as a test cas
 
 This document paraphrases and consolidates the discussion into a working guideline.
 
+
+## Fire ban
+
+For current fire ban status by authorities see: https://www.krisinformation.se/forbered-dig/gras--och-skogsbrand/eldningsforbud/
+
 ## Go/no-go checklist example
 
 Before ignition, the Burn Lead, or the Burn Lead together with the other roles, should run a clear checklist. The below is a minimal example.
