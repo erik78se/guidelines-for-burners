@@ -17,7 +17,7 @@ Scope: Training checklist for perimeter volunteers before a large burn.
 - [ ] Knows where fire materials are and how to use them
 - [ ] Knows who is the "Burn Lead"
 - [ ] Knows that they are allowed to take decisions to make the burn safe
-- [ ] Knows that they are supposed to be sober enough to take responsible decisions
+- [ ] Knows that they are supposed to be sober to take responsible decisions
 - [ ] Knows what to do if there is an uncontrolled fire breakout
 - [ ] Knows where the exit lanes are and how to get people there if needed
 - [ ] Knows that fire lanes must stay clear
