@@ -3,8 +3,8 @@
 ## Planning status
 
 - Status: Draft
-- Last reviewed: <TBA>
-- Current owner: <Burn Lead>
+- Last reviewed:
+- Current owner: Christoffer Ridell,+46 0704025741, Christoffer.ridell@gmail.com
 - Open blockers:
   - <TBA>
 - Next planning step:
@@ -21,27 +21,27 @@ Do not copy checklist contents into this burn plan. Link to the maintained check
 ## Burn summary
 
 - Artwork name: The Grogg
-- Artist / crew: <TBA>
-- Burn Lead: <TBA>
-- Planned burn date and time: <TBA>
-- Backup burn date and time: <TBA>
-- Burn location / placement: <TBA>
-- Burn category: <Small contained fire | Fire performance / fire spinning | Intentional burn | Large public burn>
-- Expected audience size: <TBA>
-- Summary of burn concept: <TBA>
+- Artist / crew: 
+- Burn Lead: Christoffer Ridell,+46 0704025741, Christoffer.ridell@gmail.com
+- Planned burn date and time: 18:00 23/7 (Thursday)
+- Backup burn date and time: Later in September or October if fire is postponed due to rain / fire safety risks
+- Burn location / placement: Sunnyhill, see placement map here (https://www.theborderland.se/map/?id=117)
+- Burn category: Large public burn>
+- Expected audience size: TBD
+- Summary of burn concept: A bar that has served an amazing purpose at the Borderland for several years will now go up in flames.
 
 ## Roles and responsibilities
 
 Fill in every role that applies. The same person may hold more than one role when appropriate for the scale of the burn.
 
-- **Borderland Representative:** <Name, contact>
-- **Burn Lead:** <Name, contact>
-- **Safety Lead:** <Name, contact>
-- **Medics Lead:** <Name, contact>
-- **Volunteer / Perimeter Crew Lead:** <Name, contact>
-- **Fire Artists / Fire Spinner Lead:** <Name, contact>
-- **Ignition Team:** <Name(s), contact>
-- **LNT Lead:** <Name, contact>
+- **Borderland Representative:** Albin Bergstedt, +46(0)738405614, bergstedtalbin@gmail.com
+- **Burn Lead:** Christoffer Ridell,+46 0704025741, Christoffer.ridell@gmail.com
+- **Safety Lead:** Christoffer Ridell,+46 0704025741, Christoffer.ridell@gmail.com
+- **Medics Lead:** TBA (Sanctuary?)
+- **Volunteer / Perimeter Crew Lead:** Christoffer Ridell,+46 0704025741, Christoffer.ridell@gmail.com
+- **Fire Artists / Fire Spinner Lead:** N/A
+- **Ignition Team:** Team from the Grogg, Contacts to be available after internal meeting
+- **LNT Lead:** Contact to be available after internal meeting
 
 Each role must have access to the maintained checklists relevant for their responsibilities.
 
@@ -79,7 +79,7 @@ Select the category from the guideline:
 - [ ] Small contained fire
 - [ ] Fire performance / fire spinning
 - [ ] Intentional burn
-- [ ] Large public burn
+- [x] Large public burn
 
 Category rationale:
 
@@ -91,65 +91,78 @@ If this is an intentional burn or large public burn, this burn plan must include
 
 - Artwork name: The Grogg
 - Artist / crew: <TBA>
-- Structure dimensions (B x W x H): <TBA>
-- Structure footprint: <TBA>
-- Burn radius: <TBA>
-- Expected burn duration: <TBA>
-- Expected flame height: <TBA>
-- Collapse behavior: <TBA>
+- Structure dimensions: 5 x 5 x 4 (m)
+- Structure footprint: See above
+- Burn radius: Same as structure
+- Expected burn duration: 1h+
+- Expected flame height: 10m (2.5 x height)
+- Collapse behavior: Changes to the structure will be made to make the structure collapse into itself and thus not increasing the radius of the actual burn
 - Art image / sketch: <TBA>
 
 ## Materials
 
 Use [Materials guideline for burns](materials-guideline-for-burns.md) when preparing the material inventory.
 
-- Material inventory complete: <TBA>
-- Materials to avoid excluded: <TBA>
-- Ember behavior considered: <TBA>
-- Smoke / smell concerns considered: <TBA>
-- Metal fasteners minimized or cleanup plan prepared: <TBA>
-- Burn Lead confirms materials are consistent with the overall safety plan: <TBA>
+- Material inventory complete: This has been considered by the team. The wood to be burnt is dry wood with some screws that will be picked up after the burn.
+- Materials to avoid excluded: This is considered by the Grogg Team and we will not have any "Materials to avoid" in the burn.
+- Ember behavior considered: No excessive or additional risk is expected since it is going to be dry wood.
+- Smoke / smell concerns considered: No smell or additional smoke because usage of only dry wood.
+- Metal fasteners minimized or cleanup plan prepared: Cleanup plan include entire camp with rakes and a magnet for the metal fastners.
+- Burn Lead confirms materials are consistent with the overall safety plan: Christoffer confirms that no hazardous materials will be used in the burn, with the exception of the actual ignition.
 
 ## Burn location
 
-- Burn location / placement: <TBA>
-- Audience area: <TBA>
-- Fire lanes: <TBA>
-- Nearby camps: <TBA>
-- Nearby forest / trees: <TBA>
-- Nearby roads: <TBA>
-- Nearby lake / water access: <TBA>
-- Wind considerations: <TBA>
-- Map image / link: <TBA>
+- Burn location / placement: Top of Sunny Hill
+- Audience area: Circular audience area outside the safety perimeter.
+- Fire lanes: Two lanes, one connected to a road (south) for fire trucks and ambulances and a second one north of the burn that also connects to road.
+- Nearby camps: 
+  - Sleepy bear's
+  - Kontgat
+  - The Grateful Grogg
+  - Coral Cosmos
+  - La Famiglia
+  - DoET Electric Vehicles, also Sleeping camp.
+  - Spikeball borderland battle 26! (SBB26)
+  - The Bear's Den
+  - Discotech Engineering
+  - The Warm Slug Fires of anarchy
+ 
+Note: Elsa de Geer and Christoffer from the Grogg has and will continue discussions with the camps around and will give them the burnplan after review from Borderland Burn lead
+
+- Nearby forest / trees: 50m from forest north and northeast / east of the Burnsite
+- Nearby roads: One fire lane connects to a road that allows both exit and access for fire trucks and ambulances.
+- Nearby lake / water access: Lake approximately 100 m from the site.
+- Wind considerations: Nothing until the actual burn date.
+- Map image / link: https://www.theborderland.se/map/?id=117
 
 Placement considerations:
 
-- Camps and dreams nearby: <TBA>
-- Forest proximity: <TBA>
-- Audience capacity: <TBA>
-- Emergency access: <TBA>
-- Fire lanes: <TBA>
-- Burn scar history: <TBA>
+- Camps and dreams nearby: See above
+- Forest proximity: See above
+- Audience capacity: 500+
+- Emergency access: One fire lane connects to a road that allows both exit and access for fire trucks and ambulances, another one is just north of the burnsite.
+- Fire lanes: Two lanes, one connected to a road (south) for fire trucks and ambulances and a second one north of the burn that also connects to road.
+- Burn scar history: Not known other than that something has been burned at the site before.
 - Neighbor visibility: <TBA>
-- Access to water or fire pump: <TBA>
-- Whether the structure can safely collapse inside the perimeter: <TBA>
+- Access to water or fire pump: Lake approximately 100 m from the site; but no pump is available at this point.
+- Whether the structure can safely collapse inside the perimeter: Steps are taken together with carpenter and mechanical engineers to secure that the structure collapses in on itself.
 
 ## Timeline
 
 Primary timeline:
 
-- Structure preparation begins: <TBA>
-- Fire safety team and artist meet at burn site: <TBA>
-- Music starts: <TBA>
-- Procession or other performance starts: <TBA>
-- Fire dancer performance starts: <TBA>
-- Artist speech starts: <TBA>
-- Lighter fluid / ignition preparation starts: <TBA>
-- Structure is lit: <TBA>
-- Expected peak fire: <TBA>
-- Expected depletion: <TBA>
-- Perimeter release target: <TBA>
-- LNT complete: <TBA>
+- Structure preparation begins: Thursday 23/7 around 11-12:00
+- Fire safety team and artist meet at burn site: Will be there from around midday til ignition
+- Music starts: Unknown, will problably be music throughout
+- Procession or other performance starts: Not decided, unlikely to be decided before the build week.
+- Fire dancer performance starts: See above
+- Artist speech starts: See above
+- Lighter fluid / ignition preparation starts: After go / no-go
+- Structure is lit: At the moment we are thinking of around 18:00 but this is subject to change
+- Expected peak fire: around 15-20 mins after ignition
+- Expected depletion: Atleast 1 hour
+- Perimeter release target: Not known
+- LNT complete: Aiming for Friday but could stretch to Sunday
 
 Timing notes:
 
@@ -161,7 +174,7 @@ Timing notes:
 
 Fire ban / no-go backup:
 
-- [ ] Postpone burn
+- [x] Postpone burn
 - [ ] Non-fire version
 - [ ] Dismantle and remove instead of burning
 
@@ -171,130 +184,130 @@ Selected backup plan:
 
 Rain backup:
 
-<TBA>
+- Burn if possible, otherwise postpone
 
 Wind backup:
 
-<TBA>
+Postpone
 
 Who decides whether the backup plan is executed:
 
-<TBA>
+Burnlead after talking to camp members
 
 ## Safety plan
 
 ### Audience safety perimeter
 
-- Structure height: <TBA>
-- Safety radius calculation: <TBA>
-- Final audience perimeter radius: <TBA>
-- How the perimeter will be marked: <TBA>
+- Structure height: 4m
+- Safety radius calculation: 3 * structure height = 12m
+- Final audience perimeter radius: 12m from edge of structure
+- How the perimeter will be marked: Light will be placed around the perimeter
 
 ### Fire lanes and exits
 
-- Fire lane count: <TBA>
-- Fire lane width: <TBA>
-- Emergency vehicle access route: <TBA>
-- How fire lanes will be kept clear: <TBA>
+- Fire lane count: At least two.
+- Fire lane width: 2m wide
+- Emergency vehicle access route: Both fire lane connects to a road (north & south of the structure) that allows both exit and access for fire trucks and ambulances.
+- How fire lanes will be kept clear: Road blocks, such as booms and gates, will be unlocked to allow fire trucks or ambulances to pass. The Burn Lead should verify this through the go/no-go process and volunteer training checklist.
 
 ### Forest and ember risk
 
-- Distance to forest / trees: <TBA>
-- Wind direction assumptions: <TBA>
-- Wind speed limit: <TBA>
-- Ember risk assessment: <TBA>
-- Fire department / qualified fire safety input needed: <TBA>
+- Distance to forest / trees: 50m
+- Wind direction assumptions: Not known.
+- Wind speed limit: Under 8m per second (Måttlig vind)
+- Ember risk assessment: Yes, has been considered safe due to choice of materials.
+- Fire department / qualified fire safety input needed: No. But the Borderland representative will be haveing a general discussion with the fire department to determine if the burn is safe.
 
 ### Water and extinguishing plan
 
-- Water source: <TBA>
-- Pump available: <TBA>
-- Extinguishers: <TBA>
-- Fire blankets: <TBA>
-- Buckets / hoses / tanks: <TBA>
-- Rakes and shovels: <TBA>
-- Trained people assigned: <TBA>
+- Water source: Lake approximately 100 m from the site.
+- Pump available: No pump is available at this point.
+- Extinguishers: TBA, mentions of fire extinguisher at site in Alversjö. Needs to be cleared when arriving at build.
+- Fire blankets: Final count has not been done and will be done at build week.
+- Buckets / hoses / tanks: TBA
+- Rakes and shovels: TBA
+- Trained people assigned: TBA
 
 ## Hill burn requirements
 
 Complete this section if the burn is on a hill or elevated area.
 
-- Map of burn radius: <TBA>
-- Map of audience area: <TBA>
-- Map of fire lanes: <TBA>
-- Map of forest distance: <TBA>
-- Map of emergency access: <TBA>
-- Wind direction assumptions: <TBA>
-- Crowd capacity estimate: <TBA>
-- Neighbor visibility plan: <TBA>
-- Water / pump plan: <TBA>
-- Burn scar prevention plan: <TBA>
+- Map of burn radius: TBA
+- Map of audience area: TBA
+- Map of fire lanes: TBA
+- Map of forest distance: TBA
+- Map of emergency access: TBA
+- Wind direction assumptions: TBA
+- Crowd capacity estimate: TBA
+- Neighbor visibility plan: Coordinate with the Borderland Representative will be done by Borderland Representative Albin.
+- Water / pump plan: Lake approximately 100 m from the site; no pump is available at this point.
+- Burn scar prevention plan: No plan.
 
 ## Audience communication
 
 Use [Audience information checklist](audience-information-checklist.md) for maintained audience briefing items.
 
-- How participants will be informed before the burn: <TBA>
-- Who gives the announcement: <TBA>
-- How fire lanes and perimeter are communicated: <TBA>
-- How cancellation or delay is communicated: <TBA>
+- How participants will be informed before the burn: Informed by Fire lead, or other delegated member, prior to burn.
+- Who gives the announcement: Either Burn Lead or another camp member (TBD)
+- How fire lanes and perimeter are communicated: Informed by Fire lead, or other delegated member, prior to burn.
+- How cancellation or delay is communicated: Informed by Fire lead, or other delegated member, prior to burn.
 
 ## Fire department and neighbor communication
 
-- Borderland Representative responsible: <TBA>
-- Fire department communication needed: <TBA>
-- Permit needed: <TBA>
-- Neighbor information needed: <TBA>
-- Contact person if someone reports a fire: <TBA>
+- Borderland Representative responsible: Albin Bergstedt
+- Fire department communication needed: Yes, coordinate through the Borderland Representative.
+- Permit needed: No.
+- Neighbor information needed: Yes, coordinate through the Borderland Representative.
+- Contact person if someone reports a fire: The Burn Lead will handle the information
 
 ## Fire performance / fire artists
 
 Use [Fire Artists / Fire Spinner Lead checklist](fire-art-spinner-lead-checklist.md) for fire spinning protocol and post-burn art crew cleanup.
 
-- Fire performance included: <Yes / No>
-- Fire performance timing: <TBA>
-- Dipping station locations: <TBA>
-- Extinguishing station locations: <TBA>
-- Fire performer briefing plan: <TBA>
+- Fire performance included: No
+- Fire performance timing: N/A
+- Dipping station locations: N/A
+- Extinguishing station locations: N/A
+- Fire performer briefing plan: N/A
 
 ## Ignition
 
 Use [Ignition crew checklist](ignition-crew-checklist.md) for ignition readiness.
 
-- Ignition Team: <TBA>
-- Ignition method: <TBA>
-- Ignition materials: <TBA>
-- When ignition materials may be prepared: <TBA>
+- Ignition Team: Team from The Grogg, Contacts TBD
+- Ignition method: Most likely lighterfluid or gasoline, TBD
+- Ignition materials: TBD
+- When ignition materials may be prepared: TBD
 - Who gives final go: Burn Lead
 
 ## During burn
 
 Use [Master operational large burn checklist](master-operational-large-burn-checklist.md) for cross-role operational coordination.
 
-- Who monitors wind shifts: <TBA>
-- Who monitors ember travel: <TBA>
-- Who monitors crowd movement: <TBA>
-- Who handles perimeter breaches: <TBA>
-- Who can expand the perimeter: <TBA>
-- Who can stop or suppress the burn if safety changes: <TBA>
+- Who monitors wind shifts: Burn Lead or delegated.
+- Who monitors ember travel: Burn Lead or delegated.
+- Who monitors crowd movement: Burn Lead or delegated.
+- Who handles perimeter breaches: Perimeter Lead or delegated.
+- Who can expand the perimeter: Perimeter Lead or delegated.
+- Who can stop or suppress the burn if safety changes: The fire department.
 
 ## Releasing the perimeter
 
 Use [Releasing the perimeter checklist](releaseing-the-perimiter-checklist.md) before releasing the perimeter.
 
-- Who confirms release: <TBA>
-- How release is communicated to volunteers and audience: <TBA>
+- Who confirms release: Burn Lead
+- How release is communicated to volunteers and audience: TBA
 
 ## Cleanup / LNT
 
 Use [Fire Artists / Fire Spinner Lead checklist](fire-art-spinner-lead-checklist.md#post-burn-cleanup--lnt) and [Master operational large burn checklist](master-operational-large-burn-checklist.md) for post-burn cleanup.
 
-- LNT Lead: <TBA>
-- Artist / crew cleanup responsibilities: <TBA>
-- Daylight MOOP sweep timing: <TBA>
-- Metal cleanup method, such as magnet rake: <TBA>
-- Burn scar inspection plan: <TBA>
-- Who signs off cleanup: <TBA>
+- LNT Lead: TBD, The entire camp will start LNT after burn
+- Artist / crew cleanup responsibilities: This in included in the responsibilities checklist.
+- Daylight MOOP sweep timing: Friday
+- Metal cleanup method, such as magnet rake: Magnet will be brought
+- Burn scar inspection plan: Not known yet.
+- Who signs off cleanup: No sign-off, we have trust in the community.
 
 ## Maintained checklists
 
